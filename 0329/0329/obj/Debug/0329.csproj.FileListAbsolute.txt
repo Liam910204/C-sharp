@@ -1,0 +1,11 @@
+D:\pl\C#\0329\0329\bin\Debug\0329.exe.config
+D:\pl\C#\0329\0329\bin\Debug\0329.exe
+D:\pl\C#\0329\0329\bin\Debug\0329.pdb
+D:\pl\C#\0329\0329\obj\Debug\0329.csproj.AssemblyReference.cache
+D:\pl\C#\0329\0329\obj\Debug\0329.csproj.SuggestedBindingRedirects.cache
+D:\pl\C#\0329\0329\obj\Debug\_0329.Form1.resources
+D:\pl\C#\0329\0329\obj\Debug\_0329.Properties.Resources.resources
+D:\pl\C#\0329\0329\obj\Debug\0329.csproj.GenerateResource.cache
+D:\pl\C#\0329\0329\obj\Debug\0329.csproj.CoreCompileInputs.cache
+D:\pl\C#\0329\0329\obj\Debug\0329.exe
+D:\pl\C#\0329\0329\obj\Debug\0329.pdb
